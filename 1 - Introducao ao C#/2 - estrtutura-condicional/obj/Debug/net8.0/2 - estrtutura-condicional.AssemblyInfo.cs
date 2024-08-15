@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("1 - variaveis-operadores")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("2 - estrtutura-condicional")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33ee732c24b0d92d82d0a7024a52da7d178282df")]
-[assembly: System.Reflection.AssemblyProductAttribute("1 - variaveis-operadores")]
-[assembly: System.Reflection.AssemblyTitleAttribute("1 - variaveis-operadores")]
+[assembly: System.Reflection.AssemblyProductAttribute("2 - estrtutura-condicional")]
+[assembly: System.Reflection.AssemblyTitleAttribute("2 - estrtutura-condicional")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

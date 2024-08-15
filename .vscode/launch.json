@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: 1 - variaveis-operadores",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\1 - Introducao ao C#\\1 - variaveis-operadores\\1 - variaveis-operadores.csproj",
+            "launchConfigurationId": "TargetFramework=;1 - variaveis-operadores"
+        }
+    ]
+}

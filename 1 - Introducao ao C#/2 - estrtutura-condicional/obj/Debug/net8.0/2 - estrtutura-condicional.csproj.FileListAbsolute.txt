@@ -1,0 +1,15 @@
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\2 - estrtutura-condicional\bin\Debug\net8.0\2 - estrtutura-condicional.exe
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\2 - estrtutura-condicional\bin\Debug\net8.0\2 - estrtutura-condicional.deps.json
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\2 - estrtutura-condicional\bin\Debug\net8.0\2 - estrtutura-condicional.runtimeconfig.json
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\2 - estrtutura-condicional\bin\Debug\net8.0\2 - estrtutura-condicional.dll
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\2 - estrtutura-condicional\bin\Debug\net8.0\2 - estrtutura-condicional.pdb
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\2 - estrtutura-condicional\obj\Debug\net8.0\2 - estrtutura-condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\2 - estrtutura-condicional\obj\Debug\net8.0\2 - estrtutura-condicional.AssemblyInfoInputs.cache
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\2 - estrtutura-condicional\obj\Debug\net8.0\2 - estrtutura-condicional.AssemblyInfo.cs
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\2 - estrtutura-condicional\obj\Debug\net8.0\2 - estrtutura-condicional.csproj.CoreCompileInputs.cache
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\2 - estrtutura-condicional\obj\Debug\net8.0\2 - estrtutura-condicional.sourcelink.json
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\2 - estrtutura-condicional\obj\Debug\net8.0\2 - estrtutura-condicional.dll
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\2 - estrtutura-condicional\obj\Debug\net8.0\refint\2 - estrtutura-condicional.dll
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\2 - estrtutura-condicional\obj\Debug\net8.0\2 - estrtutura-condicional.pdb
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\2 - estrtutura-condicional\obj\Debug\net8.0\2 - estrtutura-condicional.genruntimeconfig.cache
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\2 - estrtutura-condicional\obj\Debug\net8.0\ref\2 - estrtutura-condicional.dll

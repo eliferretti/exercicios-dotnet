@@ -12,3 +12,4 @@ C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\1 - variave
 C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\1 - variaveis-operadores\obj\Debug\net8.0\1 - variaveis-operadores.pdb
 C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\1 - variaveis-operadores\obj\Debug\net8.0\1 - variaveis-operadores.genruntimeconfig.cache
 C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\1 - variaveis-operadores\obj\Debug\net8.0\ref\1 - variaveis-operadores.dll
+c:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\1 - variaveis-operadores\obj\Debug\net8.0\1 - variaveis-operadores.sourcelink.json
