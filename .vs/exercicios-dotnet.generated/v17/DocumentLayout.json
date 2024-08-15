@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\PROJETOS\\EXERCICIOS DOTNET\\exercicios-dotnet\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC39643-F546-4286-8249-ABBF8F39177F}|1 - Introducao ao C#\\2 - estrtutura-condicional\\2 - estrtutura-condicional.csproj|c:\\projetos\\exercicios dotnet\\exercicios-dotnet\\1 - introducao ao c#\\2 - estrtutura-condicional\\exercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC39643-F546-4286-8249-ABBF8F39177F}|1 - Introducao ao C#\\2 - estrtutura-condicional\\2 - estrtutura-condicional.csproj|solutionrelative:1 - introducao ao c#\\2 - estrtutura-condicional\\exercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercicios.cs",
+              "DocumentMoniker": "C:\\PROJETOS\\EXERCICIOS DOTNET\\exercicios-dotnet\\1 - Introducao ao C#\\2 - estrtutura-condicional\\Exercicios.cs",
+              "RelativeDocumentMoniker": "1 - Introducao ao C#\\2 - estrtutura-condicional\\Exercicios.cs",
+              "ToolTip": "C:\\PROJETOS\\EXERCICIOS DOTNET\\exercicios-dotnet\\1 - Introducao ao C#\\2 - estrtutura-condicional\\Exercicios.cs",
+              "RelativeToolTip": "1 - Introducao ao C#\\2 - estrtutura-condicional\\Exercicios.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:16:41.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

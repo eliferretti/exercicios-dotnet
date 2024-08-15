@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Introducao ao C#", "1 -
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1 - variaveis-operadores", "1 - Introducao ao C#\1 - variaveis-operadores\1 - variaveis-operadores.csproj", "{8D7754E1-AC0E-4700-8300-E95FA64A1B08}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2 - estrtutura-condicional", "1 - Introducao ao C#\2 - estrtutura-condicional\2 - estrtutura-condicional.csproj", "{7FC39643-F546-4286-8249-ABBF8F39177F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{8D7754E1-AC0E-4700-8300-E95FA64A1B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D7754E1-AC0E-4700-8300-E95FA64A1B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D7754E1-AC0E-4700-8300-E95FA64A1B08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FC39643-F546-4286-8249-ABBF8F39177F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC39643-F546-4286-8249-ABBF8F39177F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC39643-F546-4286-8249-ABBF8F39177F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC39643-F546-4286-8249-ABBF8F39177F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{8D7754E1-AC0E-4700-8300-E95FA64A1B08} = {7932813F-E77A-4A61-AA4B-350BA6F47AAA}
+		{7FC39643-F546-4286-8249-ABBF8F39177F} = {7932813F-E77A-4A61-AA4B-350BA6F47AAA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A04E58A3-D73B-4580-B75D-5BCA99357D90}
