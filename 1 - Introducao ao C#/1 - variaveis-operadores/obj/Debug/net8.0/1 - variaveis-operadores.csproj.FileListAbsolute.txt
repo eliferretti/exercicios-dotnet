@@ -1,0 +1,14 @@
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\1 - variaveis-operadores\bin\Debug\net8.0\1 - variaveis-operadores.exe
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\1 - variaveis-operadores\bin\Debug\net8.0\1 - variaveis-operadores.deps.json
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\1 - variaveis-operadores\bin\Debug\net8.0\1 - variaveis-operadores.runtimeconfig.json
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\1 - variaveis-operadores\bin\Debug\net8.0\1 - variaveis-operadores.dll
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\1 - variaveis-operadores\bin\Debug\net8.0\1 - variaveis-operadores.pdb
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\1 - variaveis-operadores\obj\Debug\net8.0\1 - variaveis-operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\1 - variaveis-operadores\obj\Debug\net8.0\1 - variaveis-operadores.AssemblyInfoInputs.cache
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\1 - variaveis-operadores\obj\Debug\net8.0\1 - variaveis-operadores.AssemblyInfo.cs
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\1 - variaveis-operadores\obj\Debug\net8.0\1 - variaveis-operadores.csproj.CoreCompileInputs.cache
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\1 - variaveis-operadores\obj\Debug\net8.0\1 - variaveis-operadores.dll
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\1 - variaveis-operadores\obj\Debug\net8.0\refint\1 - variaveis-operadores.dll
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\1 - variaveis-operadores\obj\Debug\net8.0\1 - variaveis-operadores.pdb
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\1 - variaveis-operadores\obj\Debug\net8.0\1 - variaveis-operadores.genruntimeconfig.cache
+C:\PROJETOS\EXERCICIOS DOTNET\exercicios-dotnet\1 - Introducao ao C#\1 - variaveis-operadores\obj\Debug\net8.0\ref\1 - variaveis-operadores.dll
